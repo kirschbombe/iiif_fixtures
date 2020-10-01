@@ -1,4 +1,4 @@
-Sample fixtures of 2-up shots of a book (behavior "individuals")
+### Sample fixtures for book behavior "individuals" (2-page spreads)
 
 - Title: _[Conoximent de las orines] Ihesus, Ihesus. En nom de Deu et dela beneyeta sa mare e de tots los angels i archangels e de tots los sants e santes de paradis yo micer Johannes comense aquest libre de reseptes en l’ayn Mi 466._ 
 - Language: Catalan
